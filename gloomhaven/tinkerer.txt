@@ -1,0 +1,34 @@
+----- Tinkerer - "Robbie" -----
+- Level 6 - XP - 311
+- Gold - 4
+- Items:
+	2 - Winged Shoes
+	5 - Cloak of Invisibility
+	6 - Eagle Eye Glasses
+	13 - Minor Stamina Potion
+	14 - Minor Power Potion
+	20 - Minor Mana Potion
+ 
+- Perks
+ 	- Remove 2 `-1` cards
+ 	- Add 2 `+1` cards
+ 	- Add 1 `+3` card
+ 	- Add 3 Rolling Muddle cards
+ 	- 2 x Add 1 `+1` Wound card
+ 	- Add 1 `+1` `Heal+2` card
+ 	- Ignore Negative Scenario Effects
+ 	- 3 Bonus check trios filled
+ 	- 2 Bonus check trios empty
+ 	- 1 Bonus check trio at 2/3 full
+
+- Ability card selections
+	- Level 2 - Stamina Booster
+	- Level 3 - Crank Bow
+	- Level 4 - Dangerous Contraption
+	- Level 5 - Disintegration Beam 
+	- Level 6 - Gas Canister
+
+
+My Secret Goal
+--------------
+kill 8 forest imps Forgotten Grove and 
