@@ -1,6 +1,6 @@
 ----- Tinkerer - "Robbie" -----
-- Level 6 - XP - 311
-- Gold - 4
+- Level 6 - XP - 311 +19 = 330
+- Gold - 16
 - Items:
 	2 - Winged Shoes
 	5 - Cloak of Invisibility
