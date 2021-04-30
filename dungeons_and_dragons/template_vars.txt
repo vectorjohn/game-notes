@@ -1,0 +1,139 @@
+{{emote}}
+{{atwill}} (Green)
+{{encounter}} (Red)
+{{daily}} (Grey)
+{{item}} (Gold)
+{{other}} (Black)
+{{ability}} (Purple)
+{{skill}} (Blue)
+{{name}}
+{{class}}
+{{level}}
+{{type}} {{keywords}}
+{{attacktechnique}}
+{{action}} {{range}}
+{{requirement}}
+{{trigger}}
+{{beforespecial}}
+{{beforeeffect}}
+{{target}}
+{{primarytarget}}
+{{attackweaponmod}}
+{{attack}}
+{{multiattacktoggle=[[?{Number of Attacks|2}]]}}
+{{multiattack2}}
+{{multiattack3}}
+{{multiattack4}}
+{{multiattack5}}
+{{multiattack6}}
+{{multiattack7}}
+{{multiattack8}}
+{{multiattack9}}
+{{multiattack10}}
+{{multiattack11}}
+{{multiattack12}}
+{{multiattack13}}
+{{multiattack14}}
+{{multiattack15}}
+{{multiattack16}}
+{{multiattack17}}
+{{multiattack18}}
+{{multiattack19}}
+{{multiattack20}}
+{{damage}}
+{{critical}}
+{{hitweaponmod}}
+{{hiteffect}}
+{{hitaftereffect}}
+{{effectweaponmod}}
+{{secondaryrange}}
+{{secondarytarget}}
+{{secondaryattack}}
+{{secondarydamage}}
+{{secondarycritical}}
+{{secondaryhiteffect}}
+{{tertiaryrange}}
+{{tertiarytarget}}
+{{tertiaryattack}}
+{{tertiarydamage}}
+{{tertiarycritical}}
+{{tertiaryhiteffect}}
+{{augmenttoggle=[[?{Augment|0}]]}}
+{{augment1range}}
+{{augment1target}}
+{{augment1attack}}
+{{augment1multitoggle=[[?{Number of Attacks|2}]]}}
+{{augment1multiattack2}}
+{{augment1multiattack3}}
+{{augment1multiattack4}}
+{{augment1multiattack5}}
+{{augment1multiattack6}}
+{{augment1multiattack7}}
+{{augment1multiattack8}}
+{{augment1multiattack9}}
+{{augment1damage}}
+{{augment1critical}}
+{{augment1hiteffect}}
+{{augment2range}}
+{{augment2target}}
+{{augment2attack}}
+{{augment2multitoggle=[[?{Number of Attacks|2}]]}}
+{{augment2multiattack2}}
+{{augment2multiattack3}}
+{{augment2multiattack4}}
+{{augment2multiattack5}}
+{{augment2multiattack6}}
+{{augment2multiattack7}}
+{{augment2multiattack8}}
+{{augment2multiattack9}}
+{{augment2damage}}
+{{augment2critical}}
+{{augment2hiteffect}}
+{{augment4range}}
+{{augment4target}}
+{{augment4attack}}
+{{augment4multitoggle=[[?{Number of Attacks|2}]]}}
+{{augment4multiattack2}}
+{{augment4multiattack3}}
+{{augment4multiattack4}}
+{{augment4multiattack5}}
+{{augment4multiattack6}}
+{{augment4multiattack7}}
+{{augment4multiattack8}}
+{{augment4multiattack9}}
+{{augment4damage}}
+{{augment4critical}}
+{{augment4hiteffect}}
+{{augment6range}}
+{{augment6target}}
+{{augment6attack}}
+{{augment6multitoggle=[[?{Number of Attacks|2}]]}}
+{{augment6multiattack2}}
+{{augment6multiattack3}}
+{{augment6multiattack4}}
+{{augment6multiattack5}}
+{{augment6multiattack6}}
+{{augment6multiattack7}}
+{{augment6multiattack8}}
+{{augment6multiattack9}}
+{{augment6damage}}
+{{augment6critical}}
+{{augment6hiteffect}}
+{{classmodifier}}
+{{miss}}
+{{effect}}
+{{firstfailedsave}}
+{{secondfailedsave}}
+{{eachfailedsave}}
+{{aftereffect}}
+{{sustainminor}}
+{{sustainstandard}}
+{{movetechnique}}
+{{mttype}} {{mtrange}}
+{{mttarget}}
+{{mteffect}}
+{{special}}
+{{initiative}}
+{{ability}}
+{{skill}}
+{{key}} {{value}}
