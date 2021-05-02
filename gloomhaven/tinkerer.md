@@ -28,7 +28,26 @@
 	- Level 5 - Disintegration Beam 
 	- Level 6 - Gas Canister
 
-
+- Card Upgrades
+    - Stun Shot:
+		Top: +1 Attack
+	- Restorative Mist:
+		Top: +1 Heal
+	
 My Secret Goal
 --------------
 kill 8 forest imps Forgotten Grove and 
+
+This Encounter
+--------------
+Sadist - kill 5 or more monsters for one check.
+
+Notes
+=====
+
+2021-05-01
+----------
+Gas Canister - we agreed that "end of my next four turns" includes the turn I play the card.
+Took a screenshot of card usage.
+We ended at the end of a round. I was thinking I would long rest because I'm invisible and the enemies seem to go fast. So I could help waste their turn. I could do otherwise and if they clump up I have AOE but this might be a marathon. Also remember stamina potion to possibly stretch things out.
+I'm at 13hp, 6xp, 3gold.
