@@ -1,6 +1,6 @@
 ----- Tinkerer - "Robbie" -----
-- Level 6 - XP - 311 +19 = 330
-- Gold - 16
+- Level 7 - XP 330 + 21 = 351
+- Gold - 16 + 25 = 41
 - Items:
 	2 - Winged Shoes
 	5 - Cloak of Invisibility
@@ -51,3 +51,7 @@ Gas Canister - we agreed that "end of my next four turns" includes the turn I pl
 Took a screenshot of card usage.
 We ended at the end of a round. I was thinking I would long rest because I'm invisible and the enemies seem to go fast. So I could help waste their turn. I could do otherwise and if they clump up I have AOE but this might be a marathon. Also remember stamina potion to possibly stretch things out.
 I'm at 13hp, 6xp, 3gold.
+
+2021-05-22
+----------
+Nothing to add.
