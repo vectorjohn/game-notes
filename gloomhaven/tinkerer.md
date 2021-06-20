@@ -1,6 +1,6 @@
 ----- Tinkerer - "Robbie" -----
-- Level 7 - XP 330 + 21 = 351
-- Gold - 16 + 25 = 41
+- Level 7 - XP 330 + 21 = 351 + 15 = 366
+- Gold - 16 + 25 = 41 + 9 = 50
 - Items:
 	2 - Winged Shoes
 	5 - Cloak of Invisibility
@@ -17,9 +17,9 @@
  	- 2 x Add 1 `+1` Wound card
  	- Add 1 `+1` `Heal+2` card
  	- Ignore Negative Scenario Effects
- 	- 3 Bonus check trios filled
+ 	- 4 Bonus check trios filled
  	- 2 Bonus check trios empty
- 	- 1 Bonus check trio at 2/3 full
+ 	<!-- - 1 Bonus check trio at 2/3 full -->
 
 - Ability card selections
 	- Level 2 - Stamina Booster
@@ -27,6 +27,7 @@
 	- Level 4 - Dangerous Contraption
 	- Level 5 - Disintegration Beam 
 	- Level 6 - Gas Canister
+	- Level 7 - Curative Aerosols
 
 - Card Upgrades
     - Stun Shot:
@@ -38,9 +39,6 @@ My Secret Goal
 --------------
 kill 8 forest imps Forgotten Grove and 
 
-This Encounter
---------------
-Sadist - kill 5 or more monsters for one check.
 
 Notes
 =====
@@ -55,3 +53,10 @@ I'm at 13hp, 6xp, 3gold.
 2021-05-22
 ----------
 Nothing to add.
+
+2021-06-19
+----------
+Choosing Curative Aerosols.
+I got a checkmark which filled a trio for a new thingy.
+I also noticed I forgot to get a perk for leveling. So next game I should get 
+two new perks (I have not chosen them yet).
