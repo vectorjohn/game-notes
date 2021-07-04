@@ -1,6 +1,6 @@
 ----- Tinkerer - "Robbie" -----
-- Level 7 - XP 330 + 21 = 351 + 15 = 366 + 10
-- Gold - 16 + 25 = 41 + 9 = 50 - 27 (potion) = 23
+- Level 7 - XP 330 + 21 = 351 + 15 = 366 + 10 = 376 + 10 + 13 = 399
+- Gold - 16 + 25 = 41 + 9 = 50 - 27 (potion) = 23 + 12 = 35
 - Items:
 	2 - Winged Shoes
 	5 - Cloak of Invisibility
@@ -82,3 +82,9 @@ I think 2a is fine. I won't do no damage, so we're only talking a handful of dam
 
 
 **Don't get any more XP!**
+
+2021-07-03
+----------
+I forgot, the contraption is worth 2xp so there was no chance of getting that battle goal.
+So I guess I did 2b. But I thought I was doing 2a and lost the flamethrower. Oh well. Lost me
+maybe 2xp.
