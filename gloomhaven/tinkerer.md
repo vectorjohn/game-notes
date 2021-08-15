@@ -88,3 +88,17 @@ I think 2a is fine. I won't do no damage, so we're only talking a handful of dam
 I forgot, the contraption is worth 2xp so there was no chance of getting that battle goal.
 So I guess I did 2b. But I thought I was doing 2a and lost the flamethrower. Oh well. Lost me
 maybe 2xp.
+
+2021-08-14
+----------
+I have 1gp.
+
+Just finished long rest. I could change my mind on the loss card but I don't think I will.
+The traps are 5 damage, no stun.
+We could let Leeroy take damage, I can wound one golem.
+
+LONG shot I could pull the far golem to me, then next turn wound both.
+I'd want to go fast so the golem doesn't hit someone else or get away, then maybe gas can. 
+Then basically move fast after the flame.
+
+Something to consider, we don't have to fight the golems now. I could drop a contraption and we run past, do whatever happens in the next room(s), then come back (or better they follow slowly).
