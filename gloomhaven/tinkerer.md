@@ -1,6 +1,6 @@
 ----- Tinkerer - "Robbie" -----
-- Level 7 - XP 330 + 21 = 351 + 15 = 366 + 10 = 376 + 10 + 13 = 399
-- Gold - 16 + 25 = 41 + 9 = 50 - 27 (potion) = 23 + 12 = 35
+- Level 7 - XP 330 + 21 = 351 + 15 = 366 + 10 = 376 + 10 + 13 = 399 + 18 = 417
+- Gold - 16 + 25 = 41 + 9 = 50 - 27 (potion) = 23 + 12 = 35 + 9 = 44
 - Items:
 	2 - Winged Shoes
 	5 - Cloak of Invisibility
@@ -19,7 +19,8 @@
  	- Ignore Negative Scenario Effects
 	- Replace 1 `-2` card with 1 `+0` card
  	- 4 Bonus check trios filled
- 	- 2 Bonus check trios empty
+ 	- 1 Bonus check trios empty
+	- 1 Bonus check at 1/3 full
  	<!-- - 1 Bonus check trio at 2/3 full -->
 
 - Ability card selections
@@ -102,3 +103,7 @@ I'd want to go fast so the golem doesn't hit someone else or get away, then mayb
 Then basically move fast after the flame.
 
 Something to consider, we don't have to fight the golems now. I could drop a contraption and we run past, do whatever happens in the next room(s), then come back (or better they follow slowly).
+
+2021-08-29
+----------
+Got a check (counted above).
