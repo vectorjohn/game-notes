@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Portfolio Index">
+  <product major="8" minor="9" patch="8" build="958" />
+  <game folder="4e" game="4th Edition" major="16" minor="4" />
+  <portfolio herocount="1" activehero="1">
+    <tactical combatturn="0" />
+    <notes />
+    <hero playername="John" heroindex="1" herosummary="Dwarf Ranger 15" leadfile="lead1.xml" heroname="Gorran" activemode="1" allegianceid="algAlly" hasacted="no">
+      <requiredsources>
+        <picksources>
+          <pickinfo thingid="bgBirthAmo" thingname="Birth - Among Another Race" />
+          <needsource source="PHB2" name="Player&apos;s Handbook 2" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="ftArcheMas" thingname="Archery Mastery" />
+          <needsource source="Dragon" name="Dragon Magazine" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="ftBowExp" thingname="Bow Expertise" />
+          <needsource source="PlEsHeroFa" name="Heroes of the Fallen Lands" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="ftDistaAdv" thingname="Distant Advantage" />
+          <needsource source="PHB2" name="Player&apos;s Handbook 2" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="ftDwarvRec" thingname="Dwarven Recovery" />
+          <needsource source="Martial2" name="Martial Power 2" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="ftGraziSho" thingname="Grazing Shot" />
+          <needsource source="PHB3" name="Player&apos;s Handbook 3" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="ftGrounSho" thingname="Grounding Shot" />
+          <needsource source="PHB3" name="Player&apos;s Handbook 3" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="ftHunteAim" thingname="Hunter&apos;s Aim" />
+          <needsource source="Martial" name="Martial Power" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="pRgrBloStr" thingname="Bloodlust Strike" />
+          <needsource source="Martial" name="Martial Power" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="pRgrDefVol" thingname="Defensive Volley" />
+          <needsource source="Dragon" name="Dragon Magazine" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="pRgrFadStr" thingname="Fading Strike" />
+          <needsource source="Martial2" name="Martial Power 2" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="pRgrMarDea" thingname="Marked for Death" />
+          <needsource source="Martial2" name="Martial Power 2" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="pRgrSafPas" thingname="Safe Passage" />
+          <needsource source="PlEsForKin" name="Heroes of the Forgotten Kingdoms" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="pSklWalIt" thingname="Walk It Off" />
+          <needsource source="PHB3" name="Player&apos;s Handbook 3" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="ppSharpsho" thingname="Sharpshooter" />
+          <needsource source="Martial" name="Martial Power" />
+        </picksources>
+        <picksources>
+          <pickinfo thingid="wpGreatbow" thingname="Greatbow" />
+          <needsource source="AdvenVault" name="Adventurer&apos;s Vault" />
+        </picksources>
+      </requiredsources>
+    </hero>
+    <deffield id="acAbandon" text="0" />
+    <deffield id="acBGSkill" />
+    <deffield id="acBookId" />
+    <deffield id="acBookName" />
+    <deffield id="acCashCfg" text="100" />
+    <deffield id="acMonElite" text="0" />
+    <deffield id="acMonLead" text="0" />
+    <deffield id="acMonOrig" />
+    <deffield id="acMonRole" />
+    <deffield id="acMonType" />
+    <deffield id="acMonXP" text="0" />
+    <deffield id="acRPGAChar" />
+    <deffield id="acRPGAComp" />
+    <deffield id="acRPGANum" />
+    <deffield id="acRecOnly" text="1" />
+    <deffield id="acStartCP" text="22" />
+    <deffield id="acStartLev" text="1" />
+    <deffield id="acType" text="0" />
+    <deffield id="actBGSkCls" text="0" />
+    <deffield id="adjChosen" />
+    <deffield id="adjEnabled" text="1" />
+    <deffield id="adjIndex" />
+    <deffield id="adjLasts" />
+    <deffield id="adjSource" />
+    <deffield id="adjUser" text="0" />
+    <deffield id="allegUser" />
+    <deffield id="atiAttr1" />
+    <deffield id="atiAttr2" />
+    <deffield id="chqMenuHow" text="0" />
+    <deffield id="chqMenuSel" />
+    <deffield id="clsExprAtW" />
+    <deffield id="clsTrmAtW" />
+    <deffield id="clsTrmAtWs" />
+    <deffield id="dashUser" />
+    <deffield id="dmgDamage" text="0" />
+    <deffield id="encChars" text="0" />
+    <deffield id="encIsAlly" text="0" />
+    <deffield id="encPoints" text="0" />
+    <deffield id="encRating" text="0" />
+    <deffield id="grIsEquip" text="0" />
+    <deffield id="grUserName" />
+    <deffield id="jrnAD" text="0" />
+    <deffield id="jrnCP" text="0" />
+    <deffield id="jrnDescr" />
+    <deffield id="jrnGP" text="0" />
+    <deffield id="jrnGame" />
+    <deffield id="jrnPP" text="0" />
+    <deffield id="jrnReal" />
+    <deffield id="jrnReward" />
+    <deffield id="jrnSP" text="0" />
+    <deffield id="jrnTitle" text="Title" />
+    <deffield id="jrnXP" text="0" />
+    <deffield id="lnLiterate" text="1" />
+    <deffield id="mghSize" text="0" />
+    <deffield id="monChosen" />
+    <deffield id="monLabel" />
+    <deffield id="monText" />
+    <deffield id="monValue" text="0" />
+    <deffield id="npcInfo" />
+    <deffield id="perAge" text="25" />
+    <deffield id="perEyes" />
+    <deffield id="perGenUser" />
+    <deffield id="perGender" text="0" />
+    <deffield id="perHair" />
+    <deffield id="perHeight" text="68" />
+    <deffield id="perInfo" />
+    <deffield id="perSkin" />
+    <deffield id="perWeight" text="160" />
+    <deffield id="puAttack" />
+    <deffield id="puDetails" />
+    <deffield id="puType" text="AtWill" />
+    <deffield id="ritIsBonus" text="0" />
+    <deffield id="ritMaster" text="0" />
+    <deffield id="rpgaItem" />
+    <deffield id="rpgaJourn" />
+    <deffield id="rpgaLevel" />
+    <deffield id="sklUserTrn" text="0" />
+    <deffield id="spcPrint" text="1" />
+    <deffield id="spcPromote" text="0" />
+    <deffield id="spcUsed" text="0" />
+    <deffield id="stackEach" />
+    <deffield id="stackQty" text="1" />
+    <deffield id="tactInit" />
+    <deffield id="tactInitOv" />
+    <deffield id="tactInit2" />
+    <deffield id="tactLast" />
+    <deffield id="tactNotes" />
+    <deffield id="tactSave2" />
+    <deffield id="tactSystem" />
+    <deffield id="tactUser" />
+    <deffield id="tactUser2" />
+    <deffield id="trkUser" text="0" />
+    <deffield id="trtUser" text="0" />
+    <deffield id="uimgImage" text="0" />
+    <deffield id="uimgIndex" />
+    <deffield id="useredit" />
+    <deffield id="username" />
+    <deffield id="usrChosen1" />
+    <deffield id="usrChosen2" />
+    <deffield id="usrIsCheck" text="0" />
+    <deffield id="usrSelect" />
+    <deffield id="wpSize" text="0" />
+    <deffield id="xactAD" text="0" />
+    <deffield id="xactCP" text="0" />
+    <deffield id="xactEach" />
+    <deffield id="xactGP" text="0" />
+    <deffield id="xactIsBRit" text="0" />
+    <deffield id="xactIsFree" text="0" />
+    <deffield id="xactLimit" />
+    <deffield id="xactName" />
+    <deffield id="xactPP" text="0" />
+    <deffield id="xactQty" />
+    <deffield id="xactSP" text="0" />
+    <deffield id="xactSize" text="0" />
+    <deffield id="xactStack" />
+    <deffield id="UserName" />
+    <deffield id="abilActive" text="0" />
+  </portfolio>
+</document>

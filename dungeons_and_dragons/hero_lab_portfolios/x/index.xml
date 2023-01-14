@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Portfolio Index">
+  <game name="4th Edition" folder="4e" publisher="Wizards of the Coast" url="http://www.wizards.com/dnd">
+    <gameinfo>Dungeons &amp; Dragons and all other Wizards of the Coast product names are trademarks of Wizards of the Coast. ©2008-2014 Wizards of the Coast, Inc.</gameinfo>
+    <version version="16.4" primary="16" secondary="4" tertiary="" build=""></version>
+    </game>
+  <program name="Hero Lab" url="https://www.wolflair.com">
+    <programinfo>Hero Lab and the Hero Lab logo are Registered Trademarks of LWD Technology, Inc. Free download at https://www.wolflair.com<![CDATA[
+]]>Dungeons &amp; Dragons and all other Wizards of the Coast product names are trademarks of Wizards of the Coast. ©2008-2014 Wizards of the Coast, Inc.</programinfo>
+    <version version="8.9h" primary="8" secondary="9" tertiary="h" build="958"></version>
+    </program>
+  <handlers>
+    <handler name="Hero Lab" folder="herolab"></handler>
+    </handlers>
+  <characters>
+    <character name="Gorran" summary="Dwarf Ranger 15" isally="yes" allegianceid="algAlly" allegiancename="Ally of Party" playername="John" herolableadindex="1" characterindex="1">
+      <statblocks>
+        <statblock format="text" folder="statblocks_text" filename="1_Gorran.txt"/>
+        <statblock format="html" folder="statblocks_html" filename="1_Gorran.htm"/>
+        </statblocks>
+      <images></images>
+      </character>
+    </characters>
+  </document>

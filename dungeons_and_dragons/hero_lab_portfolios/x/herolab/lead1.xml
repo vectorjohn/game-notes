@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document signature="Hero Lab Lead">
+  <hero playername="John" heroindex="1" herosummary="Dwarf Ranger 15" heroname="Gorran" activemode="1" allegianceid="algAlly" hasacted="no" batchindex="191" userbatch="150" enmassebatch="10" nexttrade="6" nexttransact="6" poolcount="20" focustab="personal">
+    <container index="0" pickcount="227">
+      <pick thing="AttrIncSel" index="21" batchindex="10" root="no" fieldcount="2" bootstrap="yes">
+        <reference pickindex="20" batchindex="10" bootindex="1" />
+        <field id="atiAttr1" menuthing="attrWis" ispick="yes" menuusage="hero" cacheindex="65"></field>
+        <field id="atiAttr2" menuthing="attrDex" ispick="yes" menuusage="hero" cacheindex="62"></field>
+      </pick>
+      <pick thing="AttrIncSel" index="22" batchindex="10" root="no" fieldcount="2" bootstrap="yes">
+        <reference pickindex="20" batchindex="10" bootindex="1" />
+        <field id="atiAttr1" menuthing="attrWis" ispick="yes" menuusage="hero" cacheindex="65"></field>
+        <field id="atiAttr2" menuthing="attrDex" ispick="yes" menuusage="hero" cacheindex="62"></field>
+      </pick>
+      <pick thing="AttrIncSel" index="23" batchindex="10" root="no" bootstrap="yes" default="yes">
+        <reference pickindex="20" batchindex="10" bootindex="1" />
+      </pick>
+      <pick thing="AttrIncSel" index="24" batchindex="10" root="no" fieldcount="2" bootstrap="yes">
+        <reference pickindex="20" batchindex="10" bootindex="1" />
+        <field id="atiAttr1" menuthing="attrDex" ispick="yes" menuusage="hero" cacheindex="62"></field>
+        <field id="atiAttr2" menuthing="attrWis" ispick="yes" menuusage="hero" cacheindex="65"></field>
+      </pick>
+      <pick thing="AttrIncSel" index="25" batchindex="10" root="no" count="0" bootstrap="yes" default="yes" live="no">
+        <reference pickindex="20" batchindex="10" bootindex="1" />
+      </pick>
+      <pick thing="AttrIncSel" index="26" batchindex="10" root="no" count="0" bootstrap="yes" default="yes" live="no">
+        <reference pickindex="20" batchindex="10" bootindex="1" />
+      </pick>
+      <pick thing="AttrIncSel" index="27" batchindex="10" root="no" count="0" bootstrap="yes" default="yes" live="no">
+        <reference pickindex="20" batchindex="10" bootindex="1" />
+      </pick>
+      <pick thing="AttrIncSel" index="28" batchindex="10" root="no" count="0" bootstrap="yes" default="yes" live="no">
+        <reference pickindex="20" batchindex="10" bootindex="1" />
+      </pick>
+      <pick thing="AttrIncrs" index="20" batchindex="10" refcount="0" default="yes">
+        <chain index="21" />
+        <chain index="22" />
+        <chain index="23" />
+        <chain index="24" />
+        <chain index="25" />
+        <chain index="26" />
+        <chain index="27" />
+        <chain index="28" />
+      </pick>
+      <pick thing="ChooseEqp" index="4" batchindex="4" fieldcount="2" bootstrap="yes">
+        <reference bootindex="30" />
+        <field id="chqMenuSel" menuthing="wpGreatbow" ispick="yes" menuusage="hero" cacheindex="219"></field>
+        <field id="chqMenuHow" user="1."></field>
+      </pick>
+      <pick thing="ChooseEqp" index="5" batchindex="5" fieldcount="1" bootstrap="yes" default="yes">
+        <reference bootindex="31" />
+        <field id="chqMenuSel"></field>
+      </pick>
+      <pick thing="ChooseEqp" index="6" batchindex="6" fieldcount="1" bootstrap="yes" default="yes">
+        <reference bootindex="32" />
+        <field id="chqMenuSel"></field>
+      </pick>
+      <pick thing="Unaligned" index="179" batchindex="150" uniqueness="unique" source="raAlign" default="yes">
+        <reference />
+      </pick>
+      <pick thing="actor" index="1" batchindex="1" uniqueness="unique" fieldcount="4" bootstrap="yes">
+        <reference />
+        <field id="acStartLev" user="15."></field>
+        <field id="acBGSkill"></field>
+        <field id="dashUser" value="1."></field>
+        <field id="allegUser" menuthing="algAlly"></field>
+      </pick>
+      <pick thing="adjDamage" index="255" batchindex="191" refcount="0" fieldcount="3" source="peAdjust">
+        <field id="adjUser" user="3."></field>
+        <field id="adjChosen" menuthing="wpGreatbow" ispick="yes" menuusage="hero" cacheindex="219"></field>
+        <field id="adjIndex" value="6."></field>
+      </pick>
+      <pick thing="adjDef" index="251" batchindex="187" refcount="0" fieldcount="3" source="peAdjust">
+        <field id="adjUser" user="3."></field>
+        <field id="adjChosen" menuthing="defWill" ispick="yes" menuusage="hero" cacheindex="70"></field>
+        <field id="adjIndex" value="2."></field>
+      </pick>
+      <pick thing="adjDef" index="252" batchindex="188" refcount="0" fieldcount="3" source="peAdjust">
+        <field id="adjUser" user="3."></field>
+        <field id="adjChosen" menuthing="defAC" ispick="yes" menuusage="hero" cacheindex="67"></field>
+        <field id="adjIndex" value="3."></field>
+      </pick>
+      <pick thing="adjDef" index="253" batchindex="189" refcount="0" fieldcount="3" source="peAdjust">
+        <field id="adjUser" user="3."></field>
+        <field id="adjChosen" menuthing="defFort" ispick="yes" menuusage="hero" cacheindex="68"></field>
+        <field id="adjIndex" value="4."></field>
+      </pick>
+      <pick thing="adjDef" index="254" batchindex="190" refcount="0" fieldcount="3" source="peAdjust">
+        <field id="adjUser" user="3."></field>
+        <field id="adjChosen" menuthing="defRef" ispick="yes" menuusage="hero" cacheindex="69"></field>
+        <field id="adjIndex" value="5."></field>
+      </pick>
+      <pick thing="adjWeapon" index="244" batchindex="180" refcount="0" fieldcount="3" source="peAdjust">
+        <field id="adjUser" user="3."></field>
+        <field id="adjChosen" menuthing="wpGreatbow" ispick="yes" menuusage="hero" cacheindex="219"></field>
+        <field id="adjIndex" value="1."></field>
+      </pick>
+      <pick thing="arLeathArm" index="243" batchindex="179" refcount="0" fieldcount="1" source="arArmor">
+        <field id="grIsEquip" user="1."></field>
+      </pick>
+      <pick thing="attrCha" index="60" batchindex="42" uniqueness="unique" fieldcount="1">
+        <reference />
+        <field id="trtUser" user="9."></field>
+      </pick>
+      <pick thing="attrCon" index="61" batchindex="43" uniqueness="unique" fieldcount="1">
+        <reference />
+        <field id="trtUser" user="10."></field>
+      </pick>
+      <pick thing="attrDex" index="62" batchindex="44" uniqueness="unique" fieldcount="1">
+        <reference />
+        <field id="trtUser" user="18."></field>
+      </pick>
+      <pick thing="attrInt" index="63" batchindex="45" uniqueness="unique" fieldcount="1">
+        <reference />
+        <field id="trtUser" user="10."></field>
+      </pick>
+      <pick thing="attrStr" index="64" batchindex="46" uniqueness="unique" fieldcount="1">
+        <reference />
+        <field id="trtUser" user="12."></field>
+      </pick>
+      <pick thing="attrWis" index="65" batchindex="47" uniqueness="unique" fieldcount="1">
+        <reference />
+        <field id="trtUser" user="13."></field>
+      </pick>
+      <pick thing="bgBirthAmo" index="191" batchindex="158" uniqueness="unique" source="raBackgr" default="yes">
+        <reference />
+      </pick>
+      <pick thing="clsRanger" index="201" batchindex="160" uniqueness="unique" source="clClass" default="yes">
+        <chain index="202" />
+        <chain index="203" />
+        <chain index="205" />
+        <chain index="207" />
+        <chain index="209" />
+        <chain index="211" />
+        <chain index="213" />
+        <chain index="214" />
+        <chain index="215" />
+        <reference />
+      </pick>
+      <pick thing="conTrainS1" index="216" batchindex="160" root="no" fieldcount="1" bootstrap="yes">
+        <reference pickindex="201" batchindex="160" bootindex="1" />
+        <field id="usrChosen1" menuthing="skNature" ispick="yes" menuusage="hero" cacheindex="137"></field>
+      </pick>
+      <pick thing="defAC" index="67" batchindex="49" uniqueness="unique" default="yes">
+        <reference />
+      </pick>
+      <pick thing="defFort" index="68" batchindex="50" uniqueness="unique" default="yes">
+        <reference />
+      </pick>
+      <pick thing="defRef" index="69" batchindex="51" uniqueness="unique" default="yes">
+        <reference />
+      </pick>
+      <pick thing="defWill" index="70" batchindex="52" uniqueness="unique" default="yes">
+        <reference />
+      </pick>
+      <pick thing="fRPlusAb" index="199" batchindex="159" root="no" fieldcount="1" bootstrap="yes">
+        <reference pickindex="192" batchindex="159" bootindex="1" />
+        <field id="usrChosen1" menuthing="attrWis" ispick="yes" menuusage="hero" cacheindex="65"></field>
+      </pick>
+      <pick thing="fRgrFigSty" index="202" batchindex="160" root="no" fieldcount="1" bootstrap="yes">
+        <reference pickindex="201" batchindex="160" bootindex="1" />
+        <field id="usrChosen1" menuthing="fRgrHunFig" ispick="yes" menuusage="hero" cacheindex="207"></field>
+      </pick>
+      <pick thing="fRgrHunFig" index="207" batchindex="160" root="no" bootstrap="yes" default="yes">
+        <chain index="208" />
+        <reference pickindex="201" batchindex="160" bootindex="1" />
+      </pick>
+      <pick thing="fRgrRunAtt" index="215" batchindex="160" root="no" fieldcount="1" bootstrap="yes">
+        <reference pickindex="201" batchindex="160" bootindex="1" />
+        <field id="usrIsCheck" user="1."></field>
+      </pick>
+      <pick thing="ftArcheMas" index="230" batchindex="172" uniqueness="useronce" refcount="0" source="ftFeats" default="yes"></pick>
+      <pick thing="ftBowExp" index="223" batchindex="165" uniqueness="useronce" refcount="0" source="ftFeats" default="yes"></pick>
+      <pick thing="ftDistaAdv" index="224" batchindex="166" uniqueness="useronce" refcount="0" source="ftFeats" default="yes"></pick>
+      <pick thing="ftDwarvRec" index="228" batchindex="170" uniqueness="useronce" refcount="0" source="ftFeats" default="yes"></pick>
+      <pick thing="ftGraziSho" index="229" batchindex="171" uniqueness="useronce" refcount="0" source="ftFeats" default="yes"></pick>
+      <pick thing="ftGrounSho" index="227" batchindex="169" uniqueness="useronce" refcount="0" source="ftFeats" default="yes"></pick>
+      <pick thing="ftHunteAim" index="226" batchindex="168" uniqueness="useronce" refcount="0" source="ftFeats" default="yes"></pick>
+      <pick thing="ftLethaHun" index="225" batchindex="167" uniqueness="useronce" refcount="0" source="ftFeats" default="yes"></pick>
+      <pick thing="ftWeapoPro" index="222" batchindex="164" refcount="0" fieldcount="1" source="ftFeats">
+        <field id="usrChosen1" menuthing="wpGreatbow"></field>
+      </pick>
+      <pick thing="heroname" index="8" batchindex="8" fieldcount="1" bootstrap="yes">
+        <reference bootindex="999999001" />
+        <field id="useredit" text="Gorran"></field>
+      </pick>
+      <pick thing="journal" index="181" batchindex="152" refcount="0" fieldcount="1" source="journal">
+        <field id="jrnReal" user="20211118."></field>
+      </pick>
+      <pick thing="mscUserImg" index="180" batchindex="151" refcount="0" fieldcount="1" source="peImages" default="yes">
+        <field id="uimgIndex" value="1."></field>
+      </pick>
+      <pick thing="pRgrBloStr" index="184" batchindex="155" refcount="0" source="clEncount" default="yes"></pick>
+      <pick thing="pRgrConArr" index="240" batchindex="176" refcount="0" source="clDaily" default="yes"></pick>
+      <pick thing="pRgrDefVol" index="242" batchindex="178" refcount="0" source="clUtility" default="yes"></pick>
+      <pick thing="pRgrDisStr" index="185" batchindex="156" refcount="0" source="clEncount" default="yes"></pick>
+      <pick thing="pRgrFadStr" index="221" batchindex="163" refcount="0" source="clAtWill" default="yes"></pick>
+      <pick thing="pRgrMarDea" index="239" batchindex="175" refcount="0" source="clDaily" default="yes"></pick>
+      <pick thing="pRgrSafPas" index="220" batchindex="162" refcount="0" source="clUtility" default="yes"></pick>
+      <pick thing="pRgrSpiMan" index="183" batchindex="154" refcount="0" source="clEncount" default="yes"></pick>
+      <pick thing="pRgrSplSho" index="238" batchindex="174" refcount="0" source="clDaily" default="yes"></pick>
+      <pick thing="pRgrTwiStr" index="182" batchindex="153" refcount="0" source="clAtWill" default="yes"></pick>
+      <pick thing="pSklWalIt" index="241" batchindex="177" refcount="0" source="clUtility" default="yes"></pick>
+      <pick thing="playername" index="7" batchindex="7" fieldcount="1" bootstrap="yes">
+        <reference bootindex="999999000" />
+        <field id="useredit" text="John"></field>
+      </pick>
+      <pick thing="ppSharpsho" index="231" batchindex="173" uniqueness="unique" source="ppPath" default="yes">
+        <chain index="232" />
+        <chain index="233" />
+        <chain index="234" />
+        <chain index="235" />
+        <chain index="236" />
+        <chain index="237" />
+        <reference />
+      </pick>
+      <pick thing="rDwarf" index="192" batchindex="159" uniqueness="unique" source="raRace" default="yes">
+        <chain index="193" />
+        <chain index="194" />
+        <chain index="195" />
+        <chain index="196" />
+        <chain index="197" />
+        <chain index="198" />
+        <chain index="199" />
+        <chain index="200" />
+        <reference />
+      </pick>
+      <pick thing="skEnduranc" index="132" batchindex="114" uniqueness="unique" fieldcount="1">
+        <reference />
+        <field id="sklUserTrn" user="1."></field>
+      </pick>
+      <pick thing="skHeal" index="133" batchindex="115" uniqueness="unique" fieldcount="1">
+        <reference />
+        <field id="sklUserTrn" user="1."></field>
+      </pick>
+      <pick thing="skNature" index="137" batchindex="119" uniqueness="unique" default="yes">
+        <reference />
+      </pick>
+      <pick thing="skPercepti" index="138" batchindex="120" uniqueness="unique" fieldcount="1">
+        <reference />
+        <field id="sklUserTrn" user="1."></field>
+      </pick>
+      <pick thing="skStealth" index="151" batchindex="123" uniqueness="unique" fieldcount="1">
+        <reference />
+        <field id="sklUserTrn" user="1."></field>
+      </pick>
+      <pick thing="thExplr" index="186" batchindex="157" refcount="0" source="thTheme" default="yes">
+        <chain index="187" />
+        <chain index="189" />
+        <chain index="190" />
+      </pick>
+      <pick thing="trkAction" index="164" batchindex="136" refcount="0" fieldcount="1">
+        <field id="trkUser" user="1."></field>
+      </pick>
+      <pick thing="wpGreatbow" index="219" batchindex="161" refcount="0" source="arRange" default="yes"></pick>
+    </container>
+    <source source="AdvenVault" name="Adventurer&apos;s Vault" count="1" />
+    <source source="AdvenVaul2" name="Adventurer&apos;s Vault 2" count="1" />
+    <source source="Arcane" name="Arcane Power" count="1" />
+    <source source="BeyCrysCav" name="Beyond the Crystal Cave" count="1" />
+    <source source="BookVileDa" name="The Book of Vile Darkness" count="1" />
+    <source source="ClassComp" name="Class Compendium" count="1" />
+    <source source="DMG2" name="Dungeon Master&apos;s Guide 2" count="1" />
+    <source source="DarkSun" name="Dark Sun Campaign Setting" count="1" />
+    <source source="DeathsRch" name="E1 Death&apos;s Reach" count="1" />
+    <source source="DemonQueen" name="P2 Demon Queen Enclave" count="1" />
+    <source source="Demonomic" name="Demonomicon" count="1" />
+    <source source="Divine" name="Divine Power" count="1" />
+    <source source="Draconomic" name="Draconomicon" count="1" />
+    <source source="Dragon" name="Dragon Magazine" count="1" />
+    <source source="Dragon_406" name="Dragon Magazine 406" count="1" />
+    <source source="DunMastKit" name="Dungeon Master&apos;s Kit" count="1" />
+    <source source="DungeDelve" name="Dungeon Delve" count="1" />
+    <source source="Dungeon" name="Dungeon Magazine" count="1" />
+    <source source="EbCG" name="Eberron Campaign Setting" count="1" />
+    <source source="EbPG" name="Eberron Player&apos;s Guide" count="1" />
+    <source source="Eberron" name="Eberron" count="1" />
+    <source source="ElemChaos" name="The Plane Below: Secrets of the Elemental Chaos" count="1" />
+    <source source="FRCG" name="Forgotten Realms Campaign Guide" count="1" />
+    <source source="FRPG" name="Forgotten Realms Player&apos;s Guide" count="1" />
+    <source source="HallsUnder" name="Halls of Undermountain" count="1" />
+    <source source="Hammerfast" name="Hammerfast" count="1" />
+    <source source="HeroElemCh" name="Heroes of the Elemental Chaos" count="1" />
+    <source source="HeroFeywil" name="Heroes of the Feywild" count="1" />
+    <source source="HideBasic" name="Hide Basic Attacks" count="0" />
+    <source source="HideHybrid" name="Hide Hybrid Classes" count="0" />
+    <source source="HideStdRac" name="Hide Standard Races" count="0" />
+    <source source="IntoUnknow" name="Into the Unknown: The Dungeon Survival Handbook" count="1" />
+    <source source="KeepShadow" name="H1 Keep on the Shadowfell" count="1" />
+    <source source="KingGhouls" name="E2 Kingdom of the Ghouls" count="1" />
+    <source source="KingTroll" name="P1 King of the Trollhaunt Warrens" count="1" />
+    <source source="LFRItem" name="Living Forgotten Realms Item" count="1" />
+    <source source="LongDescs" name="Long Ability Descriptions" count="1" />
+    <source source="MM2" name="Monster Manual 2" count="1" />
+    <source source="MadGardAb" name="Madness at Gardmore Abbey" count="1" />
+    <source source="ManPlanes" name="Manual of the Planes" count="1" />
+    <source source="MarDuneSea" name="Marauders of the Dune Sea" count="1" />
+    <source source="Martial" name="Martial Power" count="1" />
+    <source source="Martial2" name="Martial Power 2" count="1" />
+    <source source="MordensEmp" name="Mordenkainen&apos;s Magnificent Emporium" count="1" />
+    <source source="NeverCamp" name="Neverwinter Campaign Setting" count="1" />
+    <source source="NightwyrmF" name="P3 Assault on Nightwyrm Fortress" count="1" />
+    <source source="OpenGrave" name="Open Grave" count="1" />
+    <source source="OptLNormal" name="Normal Languages" count="1" />
+    <source source="OptLitCost" name="Literacy Costs One Language Slot" count="0" />
+    <source source="OptLitFree" name="Literacy Optional and Free" count="0" />
+    <source source="OutHidePrs" name="Hide Personal Details" count="0" />
+    <source source="PHB2" name="Player&apos;s Handbook 2" count="1" />
+    <source source="PHB3" name="Player&apos;s Handbook 3" count="1" />
+    <source source="PHHeroes" name="Player&apos;s Handbook Heroes" count="1" />
+    <source source="PHRcDragon" name="Player&apos;s Handbook Races: Dragonborn" count="1" />
+    <source source="PHRcTief" name="Player&apos;s Handbook Races: Tiefling" count="1" />
+    <source source="PlEsForKin" name="Heroes of the Forgotten Kingdoms" count="1" />
+    <source source="PlEsHeroFa" name="Heroes of the Fallen Lands" count="1" />
+    <source source="PlEsShadow" name="Heroes of Shadow" count="1" />
+    <source source="PowCardBW" name="No Color on Power Cards" count="0" />
+    <source source="Primal" name="Primal Power" count="1" />
+    <source source="PrinceUnd" name="E3 Prince of Undeath" count="1" />
+    <source source="Psionic" name="Psionic Power" count="1" />
+    <source source="PyrShadows" name="H3 Pyramid of Shadows" count="1" />
+    <source source="RPGA" name="RPGA Rules" count="0" />
+    <source source="RedBox" name="Red Box Starter Set" count="1" />
+    <source source="RevGiants" name="Revenge of the Giants" count="1" />
+    <source source="Sample" name="Sample Content" count="0" />
+    <source source="ScepTowSpl" name="FR1 Scepter Tower of Spellgard" count="1" />
+    <source source="SeekACrown" name="Seekers of the Ashen Crown" count="1" />
+    <source source="Shadowfell" name="The Shadowfell" count="1" />
+    <source source="ShowTrackR" name="Include Tracked Resources on Statblock" count="1" />
+    <source source="SlayStone" name="HS1 The Slaying Stone" count="1" />
+    <source source="TombHorror" name="Tomb of Horrors" count="1" />
+    <source source="Underdark" name="Underdark" count="1" />
+    <source source="Validation" name="Include Validation Report on Sheet" count="1" />
+    <source source="VorRukoth" name="Vor Rukoth" count="1" />
+    <source source="WebSpiderQ" name="Web of the Spider Queen" count="1" />
+    <usagepool id="TotalAD" usagecount="1" pickindex="-1" lasttransact="1" quantity="0.">
+      <usage index="1" transaction="1" quantity="-0." />
+    </usagepool>
+    <usagepool id="TotalCP" usagecount="1" pickindex="-1" lasttransact="5" quantity="0.">
+      <usage index="5" transaction="5" quantity="-0." />
+    </usagepool>
+    <usagepool id="TotalGP" usagecount="1" pickindex="-1" lasttransact="3" quantity="-30.">
+      <usage index="3" transaction="3" quantity="-30." />
+    </usagepool>
+    <usagepool id="TotalPP" usagecount="1" pickindex="-1" lasttransact="2" quantity="0.">
+      <usage index="2" transaction="2" quantity="-0." />
+    </usagepool>
+    <usagepool id="TotalSP" usagecount="1" pickindex="-1" lasttransact="4" quantity="0.">
+      <usage index="4" transaction="4" quantity="-0." />
+    </usagepool>
+    <requiredsources>
+      <picksources>
+        <pickinfo thingid="bgBirthAmo" thingname="Birth - Among Another Race" />
+        <needsource source="PHB2" name="Player&apos;s Handbook 2" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="ftArcheMas" thingname="Archery Mastery" />
+        <needsource source="Dragon" name="Dragon Magazine" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="ftBowExp" thingname="Bow Expertise" />
+        <needsource source="PlEsHeroFa" name="Heroes of the Fallen Lands" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="ftDistaAdv" thingname="Distant Advantage" />
+        <needsource source="PHB2" name="Player&apos;s Handbook 2" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="ftDwarvRec" thingname="Dwarven Recovery" />
+        <needsource source="Martial2" name="Martial Power 2" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="ftGraziSho" thingname="Grazing Shot" />
+        <needsource source="PHB3" name="Player&apos;s Handbook 3" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="ftGrounSho" thingname="Grounding Shot" />
+        <needsource source="PHB3" name="Player&apos;s Handbook 3" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="ftHunteAim" thingname="Hunter&apos;s Aim" />
+        <needsource source="Martial" name="Martial Power" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="pRgrBloStr" thingname="Bloodlust Strike" />
+        <needsource source="Martial" name="Martial Power" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="pRgrDefVol" thingname="Defensive Volley" />
+        <needsource source="Dragon" name="Dragon Magazine" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="pRgrFadStr" thingname="Fading Strike" />
+        <needsource source="Martial2" name="Martial Power 2" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="pRgrMarDea" thingname="Marked for Death" />
+        <needsource source="Martial2" name="Martial Power 2" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="pRgrSafPas" thingname="Safe Passage" />
+        <needsource source="PlEsForKin" name="Heroes of the Forgotten Kingdoms" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="pSklWalIt" thingname="Walk It Off" />
+        <needsource source="PHB3" name="Player&apos;s Handbook 3" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="ppSharpsho" thingname="Sharpshooter" />
+        <needsource source="Martial" name="Martial Power" />
+      </picksources>
+      <picksources>
+        <pickinfo thingid="wpGreatbow" thingname="Greatbow" />
+        <needsource source="AdvenVault" name="Adventurer&apos;s Vault" />
+      </picksources>
+    </requiredsources>
+  </hero>
+</document>

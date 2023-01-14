@@ -1,0 +1,51 @@
+Gorran, Dwarf (Birth - Among Another Race) Ranger 15
+Sharpshooter
++2 to Ability: Wisdom
+Fighting Style: Hunter Fighting Style
+
+Str 13 (+8), Con 13 (+8), Dex 22 (+13), Int 11 (+7), Wis 19 (+11), Cha 10 (+7)
+
+AC: 25/28, Fort: 20/23, Ref: 24/27, Will: 21/24
+
+Hit Points: 95, Healing Surges: 7, Surge Value: 23 hp
+
+Level: 15, Initiative: +15, Speed: 5 squares, Size: Medium, Senses: Low-light
+
+Trained Skills: Endurance, Heal, Nature, Perception, Stealth
+Acrobatics: +13, Arcana: +7, Athletics: +8, Bluff: +7, Diplomacy: +7, Dungeoneering: +13, Endurance: +17, Heal: +16, History: +7, Insight: +11, Intimidate: +7, Nature: +16, Perception: +16, Religion: +7, Stealth: +18, Streetwise: +7, Thievery: +13
+
+Feats: 
+Archery Mastery, Bow Expertise, Distant Advantage, Dwarven Recovery, Grazing Shot, Grounding Shot, Hunter's Aim, Lethal Hunter, Quick Draw, Weapon Proficiency: Greatbow
+
+Powers: 
+1, At-Will Power: Basic Melee
+1, At-Will Power: Basic Ranged
+1, At-Will Power: Fading Strike
+1, At-Will Power: Twin Strike
+1, Utility Power: Surefooted Stride
+2, Utility Power: Safe Passage
+3, Encounter Power: Disruptive Strike
+5, Daily Power: Splintering Shot
+6, Utility Power: Walk It Off
+7, Encounter Power: Spikes of the Manticore
+9, Daily Power: Marked for Death
+10, Utility Power: Defensive Volley
+11, Encounter Power: Stab and Shoot
+12, Utility Power: Perfect Aim
+13, Encounter Power: Bloodlust Strike
+15, Daily Power: Confounding Arrows
+20, Daily Power: Escalating Barrage
+Encounter Power: Dwarven Resilience
+
+Weapons/Attacks: 
+   +7 - Greatbow - 1d12+3 (Rng: 25/50) - Superior 2-Handed Bow; Load free
+   +0 - Unarmed Strike - 1d4 - Improvised Unarmed
+Armor: 
+   +2 - Leather Armor (Equipped)
+
+Tracked Resources: 
+   Action Points - 1
+   Healing Surges - 0/7
+
+Hero Lab and the Hero Lab logo are Registered Trademarks of LWD Technology, Inc. Free download at https://www.wolflair.com
+Dungeons & Dragons and all other Wizards of the Coast product names are trademarks of Wizards of the Coast. ©2008-2014 Wizards of the Coast, Inc.
