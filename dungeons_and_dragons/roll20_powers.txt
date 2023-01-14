@@ -24,3 +24,6 @@
 &{template:dnd4epower} {{atwill=1 }} {{emote=You unleash two arrows in rapid succession. }} {{name=@{power-2-name} }} {{target=One or two creatures}} {{level=Standard Action }} {{type=At-Will }} {{keywords=Martial, Weapon }} {{requirement=You must be wielding a ranged weapon.}} {{attack=[[1d20+23]] vs AC }} {{damage=[[2d12+10]] }} {{secondaryattack=[[1d20+23]] vs AC  }} {{secondarydamage=[[1d12+10]] }} {{critical=[[24 + 10 + @{crit-dice}]] }} {{secondarycritical=[[12 + 10 + @{crit-dice}]] }}
 
 # Bloodlust Strike
+# FIXME: how to make this just say "Roll".
+# Preternatural Senses
+&{template:dnd4epower} {{skill=1 }} {{emote=So much of the last few years has been spent in caves, Gorran has had to hone his perception just to survive. }} {{name=Preternatural Senses }} {{ Roll=[[ 2d20k1 + 19]] }}
