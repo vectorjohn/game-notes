@@ -55,3 +55,24 @@ Within 5 of me, guys get shot at if they move. Decent damage and they stop movin
 so if there is one enemy I want to stay put, I can wait until it moves. But overall, I can somewhat expect
 to be able to make a free 2W attack almost every round. Depending on the breaks.
 This could be good even for solos, if the enemy wants to move or we can get the team to put him where he doesn't want to be, etc.
+
+Dailies? 
+Check out Flying Steel. For cases that are not that uncommon where there is nowhere to take cover, this could allow a free attack every turn. Now, it has to happen once just to break even. 
+
+Notes in throne room
+====================
+
+people:
+master of armory
+cmdr
+head of treasure
+head of smithy
+chief arch and eng
+master of hunt / forest warden
+seer (Aliya)
+bard (Gladrielle star song)
+grand master of order of knights
+
+Aliya (sp?) the seer has a reputation for never having a false vision. But most people don't believe in future sight. 
+
+In the realm of the giants, according to Gladrielle (bard)'s song, has a "false ground". Something about it makes us think it is maybe another realm. A "demi" realm. 
