@@ -1,6 +1,29 @@
+2024-05-31
+==========
+Updates before big in person game. 
+I want to ~~replace Hunter Fighting Style~~ and Herbalist (I didn't realize Erevan already brews potions).
+
+**I also might want to replace Bloodlust Strike?** Hard to believe, it was so good. But now Twin Strike (at will!) is up to 4d12+8 damage, and the risk of missing is distributed between two attacks. Bloodlust is only 3d12+16, all one attack. TS expected damage is `4*6.5+8=34, BLS is 3*6.5+16=35.5`, only 1.5 more damage. And it's riskier. And I can only use it on bloodied! I must be able to find something better.
+
+Thoughts on Feats:
+* **Martial Resolve** - make saving throws against a bunch of conditions at BOTH start and end of turn. 
+* Martial Mastery - lets me recover something like Bloodlust Strike or Perfect aim. A few others.
+* Robust Defenses - boring +2 to 3 of my defenses. Nice.
+* Indomitable Will - useful, saves against daze and stun and extra will. Great! Boring, but good.
+
+**Went with Martial Resolve.**
+Retraining rules seem to indicate I can't retrain Hunter Fighting Style, it's a class feature. So Bloodlust Strike!
+
+Thoughts on Bloodlust Strike:
+Ask Dave if it's ok, but we leveled up twice last time so I should have been able to retrain twice. But maybe I can't have take backsies. **Hmm, actually** I might have retrained twice last time, I wrote "Added suprising arrow stance, replacing splintering shot" which sure sounds like I retrained. 
+Options:
+* Entrapping Arrows - Nice utility, has a decent chance of doing its job. 1W damage (burst 1), and if enemies try to leave I can do a 1W attack that stops their movement! This might be a use case for **Martial Mastery**, in that I could hold some baddies in place for two turns in a row.
+  * OOPS - it's level 17, can't do it. But damn, it might be better than suppressing shots. I might like it more
+
+
 2024-02-23
 ==========
-Updated bloodlust strike, spikes of the manticore, twin strike, ranged basic.
+(In Roll20) Updated bloodlust strike, spikes of the manticore, twin strike, ranged basic.
 Still other updates to make. I added the variables inherent-attack and inherent-defense. Thing is, I can't understand how to calculate an attack. E.g. `bloodlust strike` says Dex Vs. AC. What does that mean? Because my dex is 24. When I remove the magic number attack bonus, hero lab comes up with +22. Where does 22 come from? It knows my dex. Inherent bonuses are 4, and the bow adds +3, which seems like it should be (24 + 4 + 3) = 31. But of course, HL says 29. 
 
 2024-01-26
@@ -10,7 +33,7 @@ Replace Hunter Fighting Style
 2024-01-06
 ==========
 * Added daily Surprising Arrow Stance, replacing splintering shot
-* Retrained feat Preternatural Senses to Haunted
+* `Retrained` feat Preternatural Senses to Haunted
 * Feats added: Far thought, Herbalist, Second Shot
 * added +2 more to greatbow attack because I think I was off by one in Hero Lab, and at L21 I got another +1 from the greatbow.
 
